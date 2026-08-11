@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Program 1</title>
+    <style>
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hello World</h1>
+
+</body>
+</html>
+Output:
+--------
+🔵 Hello World — the text appears in blue.
