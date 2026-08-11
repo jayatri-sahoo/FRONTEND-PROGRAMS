@@ -1,0 +1,26 @@
+3. Change Font Size and Style
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Program 3</title>
+    <style>
+        p {
+            font-size: 25px;
+            font-family: Arial;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <p>Learning CSS is easy!</p>
+
+</body>
+</html>
+Output:
+
+🔴 Learning CSS is easy!
+
+The text is red, 25px, and uses the Arial font.
