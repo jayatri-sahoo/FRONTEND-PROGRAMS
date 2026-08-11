@@ -1,0 +1,32 @@
+4. Create a Simple Box
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Program 4</title>
+    <style>
+        div {
+            width: 200px;
+            height: 100px;
+            background-color: yellow;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        This is a box.
+    </div>
+
+</body>
+</html>
+Output:
+
+
++--------------------+
+| This is a box.     |
+|                    |
++--------------------+
+The box has a yellow background and a black border.
