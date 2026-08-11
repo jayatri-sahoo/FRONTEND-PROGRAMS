@@ -1,0 +1,26 @@
+2. Change Background Color
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Program 2</title>
+    <style>
+        body {
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome</h1>
+    <p>This is my first CSS program.</p>
+
+</body>
+</html>
+Output:
+
+The entire webpage has a light green background.
+
+Welcome
+This is my first CSS program.
